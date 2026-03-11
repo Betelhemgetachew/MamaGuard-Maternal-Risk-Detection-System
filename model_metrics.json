@@ -1,0 +1,23 @@
+{
+  "complication_model": {
+    "accuracy": 0.769,
+    "macro_f1": 0.7215,
+    "classes": [
+      "eclampsia",
+      "gestational_diabetes",
+      "hemorrhage",
+      "none",
+      "preeclampsia",
+      "severe_anemia"
+    ]
+  },
+  "risk_model": {
+    "accuracy": 0.915,
+    "macro_f1": 0.9187,
+    "classes": [
+      "low",
+      "moderate",
+      "high"
+    ]
+  }
+}
